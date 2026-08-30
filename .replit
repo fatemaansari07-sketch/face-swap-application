@@ -1,0 +1,10 @@
+modules = ["python-3.11"]
+[agent]
+expertMode = true
+
+[nix]
+packages = ["abseil-cpp", "gtest", "libGL", "libGLU", "oneDNN", "re2", "wget"]
+
+[[ports]]
+localPort = 8080
+externalPort = 80

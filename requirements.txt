@@ -1,0 +1,10 @@
+Flask
+python-telegram-bot==22.3
+opencv-python-headless
+numpy
+Pillow
+python-dotenv
+insightface
+onnxruntime
+onnx
+telegram
