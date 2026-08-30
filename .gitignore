@@ -17,6 +17,7 @@ models/swapping/*
 .cache/
 .pythonlibs/
 .upm/
+.agents/
 
 .venv/
 venv/
